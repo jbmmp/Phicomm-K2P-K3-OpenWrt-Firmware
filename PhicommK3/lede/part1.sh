@@ -16,10 +16,10 @@
 #limitations under the License.
 #
 
-# echo '添加SSRPLUS软件源'
-# sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
-# cat feeds.conf.default |grep helloworld
-# echo '=========Add feed source OK!========='
+echo '添加SSRPLUS软件源'
+sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
+cat feeds.conf.default |grep helloworld
+echo '=========Add feed source OK!========='
 
 echo '添加Passwall软件源'
 sed -i '$a src-git passwall https://github.com/xiaorouji/openwrt-passwall' feeds.conf.default
