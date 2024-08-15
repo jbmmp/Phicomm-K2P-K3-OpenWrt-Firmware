@@ -1,3 +1,6 @@
+###个人修改，更换passwall为passwall2
+
+
 # **Phicomm-K3-OpenWrt-Firmware** [Please Star⚝ ↗]
 Phicomm K3 OpenWrt Firmware, compile by Github Actions  
 [![LICENSE](https://img.shields.io/badge/license-apache--2.0-green.svg?style=flat-square&label=LICENSE)](https://github.com/yangxu52/Phicomm-K3-OpenWrt-Firmware/blob/main/LICENSE)&nbsp;
