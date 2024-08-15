@@ -1,4 +1,7 @@
-## **个人修改，更换passwall为passwall2**
+## **个人修改**
+- 更换passwall为passwall2
+- 删除微信推送
+- 删除网易云音乐
 
 #####分隔线
 
